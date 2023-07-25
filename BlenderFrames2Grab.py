@@ -60,7 +60,7 @@ grabMap = {
         "fogDDensity": 0
     }
 }
-
+delay = 10
 with open("phys.babylon") as json_file:
     data = json.load(json_file)
 
@@ -109,6 +109,13 @@ for mesh in meshes:
                         "rotation": {
                             "w": 1.0
                         }
+                    },
+                    {
+                        "position": {},
+                        "rotation": {
+                            "w": 1.0
+                        },
+                        "time": delay
                     }
                 ],
                 "name": "idle",
@@ -135,7 +142,7 @@ for mesh in meshes:
                 levelNode["animations"][0]["frames"].append({
                     "position": position,
                     "rotation": rotation,
-                    "time": i
+                    "time": i+delay
                 })
         grabMap["levelNodes"].append(levelNode) 
 
