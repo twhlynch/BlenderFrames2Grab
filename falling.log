@@ -1,0 +1,4348 @@
+Exporter version: 3.3.1, Blender version: 3.5.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\twhly\Downloads\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  Cube
+		animation processing begun
+			processing action CubeAction:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.001
+		animation processing begun
+			processing action Cube.001Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.002
+		animation processing begun
+			processing action Cube.002Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.003
+		animation processing begun
+			processing action Cube.003Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.004
+		animation processing begun
+			processing action Cube.004Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.005
+		animation processing begun
+			processing action Cube.005Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.006
+		animation processing begun
+			processing action Cube.006Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.007
+		animation processing begun
+			processing action Cube.007Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.008
+		animation processing begun
+			processing action Cube.008Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.009
+		animation processing begun
+			processing action Cube.009Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.010
+		animation processing begun
+			processing action Cube.010Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.011
+		animation processing begun
+			processing action Cube.011Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.012
+		animation processing begun
+			processing action Cube.012Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.013
+		animation processing begun
+			processing action Cube.013Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.014
+		animation processing begun
+			processing action Cube.014Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.015
+		animation processing begun
+			processing action Cube.015Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.016
+		animation processing begun
+			processing action Cube.016Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.017
+		animation processing begun
+			processing action Cube.017Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.018
+		animation processing begun
+			processing action Cube.018Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.019
+		animation processing begun
+			processing action Cube.019Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.020
+		animation processing begun
+			processing action Cube.020Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.021
+		animation processing begun
+			processing action Cube.021Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.022
+		animation processing begun
+			processing action Cube.022Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.023
+		animation processing begun
+			processing action Cube.023Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.024
+		animation processing begun
+			processing action Cube.024Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.025
+		animation processing begun
+			processing action Cube.025Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.026
+		animation processing begun
+			processing action Cube.026Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.027
+		animation processing begun
+			processing action Cube.027Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.028
+		animation processing begun
+			processing action Cube.028Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.029
+		animation processing begun
+			processing action Cube.029Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.030
+		animation processing begun
+			processing action Cube.030Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.031
+		animation processing begun
+			processing action Cube.031Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.032
+		animation processing begun
+			processing action Cube.032Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.033
+		animation processing begun
+			processing action Cube.033Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.034
+		animation processing begun
+			processing action Cube.034Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.035
+		animation processing begun
+			processing action Cube.035Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.036
+		animation processing begun
+			processing action Cube.036Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.037
+		animation processing begun
+			processing action Cube.037Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.038
+		animation processing begun
+			processing action Cube.038Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.039
+		animation processing begun
+			processing action Cube.039Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.040
+		animation processing begun
+			processing action Cube.040Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.041
+		animation processing begun
+			processing action Cube.041Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.042
+		animation processing begun
+			processing action Cube.042Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.043
+		animation processing begun
+			processing action Cube.043Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.044
+		animation processing begun
+			processing action Cube.044Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.045
+		animation processing begun
+			processing action Cube.045Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.046
+		animation processing begun
+			processing action Cube.046Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.047
+		animation processing begun
+			processing action Cube.047Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.048
+		animation processing begun
+			processing action Cube.048Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.049
+		animation processing begun
+			processing action Cube.049Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.050
+		animation processing begun
+			processing action Cube.050Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.051
+		animation processing begun
+			processing action Cube.051Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.052
+		animation processing begun
+			processing action Cube.052Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.053
+		animation processing begun
+			processing action Cube.053Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.054
+		animation processing begun
+			processing action Cube.054Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.055
+		animation processing begun
+			processing action Cube.055Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.056
+		animation processing begun
+			processing action Cube.056Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.057
+		animation processing begun
+			processing action Cube.057Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.058
+		animation processing begun
+			processing action Cube.058Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.059
+		animation processing begun
+			processing action Cube.059Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.060
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.061
+		animation processing begun
+			processing action Cube.061Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.062
+		animation processing begun
+			processing action Cube.062Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.063
+		animation processing begun
+			processing action Cube.063Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.064
+		animation processing begun
+			processing action Cube.064Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.065
+		animation processing begun
+			processing action Cube.065Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.066
+		animation processing begun
+			processing action Cube.066Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.067
+		animation processing begun
+			processing action Cube.067Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.068
+		animation processing begun
+			processing action Cube.068Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.069
+		animation processing begun
+			processing action Cube.069Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.070
+		animation processing begun
+			processing action Cube.070Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.071
+		animation processing begun
+			processing action Cube.071Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.072
+		animation processing begun
+			processing action Cube.072Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.073
+		animation processing begun
+			processing action Cube.073Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.074
+		animation processing begun
+			processing action Cube.074Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.075
+		animation processing begun
+			processing action Cube.075Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.076
+		animation processing begun
+			processing action Cube.076Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.077
+		animation processing begun
+			processing action Cube.077Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.078
+		animation processing begun
+			processing action Cube.078Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.079
+		animation processing begun
+			processing action Cube.079Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.080
+		animation processing begun
+			processing action Cube.080Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.081
+		animation processing begun
+			processing action Cube.081Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.082
+		animation processing begun
+			processing action Cube.082Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.083
+		animation processing begun
+			processing action Cube.083Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.084
+		animation processing begun
+			processing action Cube.084Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.085
+		animation processing begun
+			processing action Cube.085Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.086
+		animation processing begun
+			processing action Cube.086Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.087
+		animation processing begun
+			processing action Cube.087Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.088
+		animation processing begun
+			processing action Cube.088Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.089
+		animation processing begun
+			processing action Cube.089Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.090
+		animation processing begun
+			processing action Cube.090Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.091
+		animation processing begun
+			processing action Cube.091Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.092
+		animation processing begun
+			processing action Cube.092Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.093
+		animation processing begun
+			processing action Cube.093Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.094
+		animation processing begun
+			processing action Cube.094Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.095
+		animation processing begun
+			processing action Cube.095Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.096
+		animation processing begun
+			processing action Cube.096Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.097
+		animation processing begun
+			processing action Cube.097Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.098
+		animation processing begun
+			processing action Cube.098Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.099
+		animation processing begun
+			processing action Cube.099Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.100
+		animation processing begun
+			processing action Cube.100Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.101
+		animation processing begun
+			processing action Cube.101Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.102
+		animation processing begun
+			processing action Cube.102Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.103
+		animation processing begun
+			processing action Cube.103Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.104
+		animation processing begun
+			processing action Cube.104Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.105
+		animation processing begun
+			processing action Cube.105Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.106
+		animation processing begun
+			processing action Cube.106Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.107
+		animation processing begun
+			processing action Cube.107Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.108
+		animation processing begun
+			processing action Cube.108Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.109
+		animation processing begun
+			processing action Cube.109Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.110
+		animation processing begun
+			processing action Cube.110Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.111
+		animation processing begun
+			processing action Cube.111Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.112
+		animation processing begun
+			processing action Cube.112Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.113
+		animation processing begun
+			processing action Cube.113Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.114
+		animation processing begun
+			processing action Cube.114Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.115
+		animation processing begun
+			processing action Cube.115Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.116
+		animation processing begun
+			processing action Cube.116Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.117
+		animation processing begun
+			processing action Cube.117Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.118
+		animation processing begun
+			processing action Cube.118Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.119
+		animation processing begun
+			processing action Cube.119Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.120
+		animation processing begun
+			processing action Cube.120Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.121
+		animation processing begun
+			processing action Cube.121Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.122
+		animation processing begun
+			processing action Cube.122Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.123
+		animation processing begun
+			processing action Cube.123Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.124
+		animation processing begun
+			processing action Cube.124Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.125
+		animation processing begun
+			processing action Cube.125Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.126
+		animation processing begun
+			processing action Cube.126Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.127
+		animation processing begun
+			processing action Cube.127Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.128
+		animation processing begun
+			processing action Cube.128Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.129
+		animation processing begun
+			processing action Cube.129Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.130
+		animation processing begun
+			processing action Cube.130Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.131
+		animation processing begun
+			processing action Cube.131Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.132
+		animation processing begun
+			processing action Cube.132Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.133
+		animation processing begun
+			processing action Cube.133Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.134
+		animation processing begun
+			processing action Cube.134Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.135
+		animation processing begun
+			processing action Cube.135Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.136
+		animation processing begun
+			processing action Cube.136Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.137
+		animation processing begun
+			processing action Cube.137Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.138
+		animation processing begun
+			processing action Cube.138Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.139
+		animation processing begun
+			processing action Cube.139Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.140
+		animation processing begun
+			processing action Cube.140Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.141
+		animation processing begun
+			processing action Cube.141Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.142
+		animation processing begun
+			processing action Cube.142Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.143
+		animation processing begun
+			processing action Cube.143Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.144
+		animation processing begun
+			processing action Cube.144Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.145
+		animation processing begun
+			processing action Cube.145Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.146
+		animation processing begun
+			processing action Cube.146Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.147
+		animation processing begun
+			processing action Cube.147Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.148
+		animation processing begun
+			processing action Cube.148Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.149
+		animation processing begun
+			processing action Cube.149Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.150
+		animation processing begun
+			processing action Cube.150Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.151
+		animation processing begun
+			processing action Cube.151Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.152
+		animation processing begun
+			processing action Cube.152Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.153
+		animation processing begun
+			processing action Cube.153Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.154
+		animation processing begun
+			processing action Cube.154Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.155
+		animation processing begun
+			processing action Cube.155Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.156
+		animation processing begun
+			processing action Cube.156Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.157
+		animation processing begun
+			processing action Cube.157Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.158
+		animation processing begun
+			processing action Cube.158Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.159
+		animation processing begun
+			processing action Cube.159Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.160
+		animation processing begun
+			processing action Cube.160Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.161
+		animation processing begun
+			processing action Cube.161Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.162
+		animation processing begun
+			processing action Cube.162Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.163
+		animation processing begun
+			processing action Cube.163Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.164
+		animation processing begun
+			processing action Cube.164Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.165
+		animation processing begun
+			processing action Cube.165Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.166
+		animation processing begun
+			processing action Cube.166Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.167
+		animation processing begun
+			processing action Cube.167Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.168
+		animation processing begun
+			processing action Cube.168Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.169
+		animation processing begun
+			processing action Cube.169Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.170
+		animation processing begun
+			processing action Cube.170Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.171
+		animation processing begun
+			processing action Cube.171Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.172
+		animation processing begun
+			processing action Cube.172Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.173
+		animation processing begun
+			processing action Cube.173Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.174
+		animation processing begun
+			processing action Cube.174Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.175
+		animation processing begun
+			processing action Cube.175Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.176
+		animation processing begun
+			processing action Cube.176Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.177
+		animation processing begun
+			processing action Cube.177Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.178
+		animation processing begun
+			processing action Cube.178Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.179
+		animation processing begun
+			processing action Cube.179Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.180
+		animation processing begun
+			processing action Cube.180Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.181
+		animation processing begun
+			processing action Cube.181Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.182
+		animation processing begun
+			processing action Cube.182Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.183
+		animation processing begun
+			processing action Cube.183Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.184
+		animation processing begun
+			processing action Cube.184Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.185
+		animation processing begun
+			processing action Cube.185Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.186
+		animation processing begun
+			processing action Cube.186Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.187
+		animation processing begun
+			processing action Cube.187Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.188
+		animation processing begun
+			processing action Cube.188Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.189
+		animation processing begun
+			processing action Cube.189Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.190
+		animation processing begun
+			processing action Cube.190Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.191
+		animation processing begun
+			processing action Cube.191Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.192
+		animation processing begun
+			processing action Cube.192Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.193
+		animation processing begun
+			processing action Cube.193Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.194
+		animation processing begun
+			processing action Cube.194Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.195
+		animation processing begun
+			processing action Cube.195Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.196
+		animation processing begun
+			processing action Cube.196Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.197
+		animation processing begun
+			processing action Cube.197Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.198
+		animation processing begun
+			processing action Cube.198Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.199
+		animation processing begun
+			processing action Cube.199Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.200
+		animation processing begun
+			processing action Cube.200Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.201
+		animation processing begun
+			processing action Cube.201Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.202
+		animation processing begun
+			processing action Cube.202Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.203
+		animation processing begun
+			processing action Cube.203Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.204
+		animation processing begun
+			processing action Cube.204Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.205
+		animation processing begun
+			processing action Cube.205Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.206
+		animation processing begun
+			processing action Cube.206Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.207
+		animation processing begun
+			processing action Cube.207Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.208
+		animation processing begun
+			processing action Cube.208Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.209
+		animation processing begun
+			processing action Cube.209Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.210
+		animation processing begun
+			processing action Cube.210Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.211
+		animation processing begun
+			processing action Cube.211Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.212
+		animation processing begun
+			processing action Cube.212Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.213
+		animation processing begun
+			processing action Cube.213Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.214
+		animation processing begun
+			processing action Cube.214Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.215
+		animation processing begun
+			processing action Cube.215Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.216
+		animation processing begun
+			processing action Cube.216Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.217
+		animation processing begun
+			processing action Cube.217Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.218
+		animation processing begun
+			processing action Cube.218Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.219
+		animation processing begun
+			processing action Cube.219Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.220
+		animation processing begun
+			processing action Cube.220Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.221
+		animation processing begun
+			processing action Cube.221Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.222
+		animation processing begun
+			processing action Cube.222Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.223
+		animation processing begun
+			processing action Cube.223Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.224
+		animation processing begun
+			processing action Cube.224Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.225
+		animation processing begun
+			processing action Cube.225Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.226
+		animation processing begun
+			processing action Cube.226Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.227
+		animation processing begun
+			processing action Cube.227Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.228
+		animation processing begun
+			processing action Cube.228Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.229
+		animation processing begun
+			processing action Cube.229Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.230
+		animation processing begun
+			processing action Cube.230Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.231
+		animation processing begun
+			processing action Cube.231Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.232
+		animation processing begun
+			processing action Cube.232Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.233
+		animation processing begun
+			processing action Cube.233Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.234
+		animation processing begun
+			processing action Cube.234Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.235
+		animation processing begun
+			processing action Cube.235Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.236
+		animation processing begun
+			processing action Cube.236Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.237
+		animation processing begun
+			processing action Cube.237Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.238
+		animation processing begun
+			processing action Cube.238Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.239
+		animation processing begun
+			processing action Cube.239Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.240
+		animation processing begun
+			processing action Cube.240Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.241
+		animation processing begun
+			processing action Cube.241Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.242
+		animation processing begun
+			processing action Cube.242Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.243
+		animation processing begun
+			processing action Cube.243Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.244
+		animation processing begun
+			processing action Cube.244Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.245
+		animation processing begun
+			processing action Cube.245Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.246
+		animation processing begun
+			processing action Cube.246Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.247
+		animation processing begun
+			processing action Cube.247Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.248
+		animation processing begun
+			processing action Cube.248Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.249
+		animation processing begun
+			processing action Cube.249Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.250
+		animation processing begun
+			processing action Cube.250Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.251
+		animation processing begun
+			processing action Cube.251Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.252
+		animation processing begun
+			processing action Cube.252Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.253
+		animation processing begun
+			processing action Cube.253Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.254
+		animation processing begun
+			processing action Cube.254Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.255
+		animation processing begun
+			processing action Cube.255Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.256
+		animation processing begun
+			processing action Cube.256Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.257
+		animation processing begun
+			processing action Cube.257Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.258
+		animation processing begun
+			processing action Cube.258Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.259
+		animation processing begun
+			processing action Cube.259Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.260
+		animation processing begun
+			processing action Cube.260Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.261
+		animation processing begun
+			processing action Cube.261Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.262
+		animation processing begun
+			processing action Cube.262Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.263
+		animation processing begun
+			processing action Cube.263Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.264
+		animation processing begun
+			processing action Cube.264Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.265
+		animation processing begun
+			processing action Cube.265Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.266
+		animation processing begun
+			processing action Cube.266Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.267
+		animation processing begun
+			processing action Cube.267Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.268
+		animation processing begun
+			processing action Cube.268Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.269
+		animation processing begun
+			processing action Cube.269Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.270
+		animation processing begun
+			processing action Cube.270Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.271
+		animation processing begun
+			processing action Cube.271Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.272
+		animation processing begun
+			processing action Cube.272Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.273
+		animation processing begun
+			processing action Cube.273Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.274
+		animation processing begun
+			processing action Cube.274Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.275
+		animation processing begun
+			processing action Cube.275Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.276
+		animation processing begun
+			processing action Cube.276Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.277
+		animation processing begun
+			processing action Cube.277Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.278
+		animation processing begun
+			processing action Cube.278Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.279
+		animation processing begun
+			processing action Cube.279Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.280
+		animation processing begun
+			processing action Cube.280Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.281
+		animation processing begun
+			processing action Cube.281Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.282
+		animation processing begun
+			processing action Cube.282Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.283
+		animation processing begun
+			processing action Cube.283Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.284
+		animation processing begun
+			processing action Cube.284Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.285
+		animation processing begun
+			processing action Cube.285Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.286
+		animation processing begun
+			processing action Cube.286Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.287
+		animation processing begun
+			processing action Cube.287Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.288
+		animation processing begun
+			processing action Cube.288Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.289
+		animation processing begun
+			processing action Cube.289Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.290
+		animation processing begun
+			processing action Cube.290Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.291
+		animation processing begun
+			processing action Cube.291Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.292
+		animation processing begun
+			processing action Cube.292Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.293
+		animation processing begun
+			processing action Cube.293Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.294
+		animation processing begun
+			processing action Cube.294Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.295
+		animation processing begun
+			processing action Cube.295Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.296
+		animation processing begun
+			processing action Cube.296Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.297
+		animation processing begun
+			processing action Cube.297Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.298
+		animation processing begun
+			processing action Cube.298Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.299
+		animation processing begun
+			processing action Cube.299Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.300
+		animation processing begun
+			processing action Cube.300Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.301
+		animation processing begun
+			processing action Cube.301Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.302
+		animation processing begun
+			processing action Cube.302Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.303
+		animation processing begun
+			processing action Cube.303Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.304
+		animation processing begun
+			processing action Cube.304Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.305
+		animation processing begun
+			processing action Cube.305Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.306
+		animation processing begun
+			processing action Cube.306Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.307
+		animation processing begun
+			processing action Cube.307Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.308
+		animation processing begun
+			processing action Cube.308Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.309
+		animation processing begun
+			processing action Cube.309Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.310
+		animation processing begun
+			processing action Cube.310Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.311
+		animation processing begun
+			processing action Cube.311Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.312
+		animation processing begun
+			processing action Cube.312Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.313
+		animation processing begun
+			processing action Cube.313Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.314
+		animation processing begun
+			processing action Cube.314Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.315
+		animation processing begun
+			processing action Cube.315Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.316
+		animation processing begun
+			processing action Cube.316Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.317
+		animation processing begun
+			processing action Cube.317Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.318
+		animation processing begun
+			processing action Cube.318Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.319
+		animation processing begun
+			processing action Cube.319Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.320
+		animation processing begun
+			processing action Cube.320Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.321
+		animation processing begun
+			processing action Cube.321Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.322
+		animation processing begun
+			processing action Cube.322Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.323
+		animation processing begun
+			processing action Cube.323Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.324
+		animation processing begun
+			processing action Cube.324Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.325
+		animation processing begun
+			processing action Cube.325Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.326
+		animation processing begun
+			processing action Cube.326Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.327
+		animation processing begun
+			processing action Cube.327Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.328
+		animation processing begun
+			processing action Cube.328Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.329
+		animation processing begun
+			processing action Cube.329Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.330
+		animation processing begun
+			processing action Cube.330Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.331
+		animation processing begun
+			processing action Cube.331Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.332
+		animation processing begun
+			processing action Cube.332Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.333
+		animation processing begun
+			processing action Cube.333Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.334
+		animation processing begun
+			processing action Cube.334Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.335
+		animation processing begun
+			processing action Cube.335Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.336
+		animation processing begun
+			processing action Cube.336Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.337
+		animation processing begun
+			processing action Cube.337Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.338
+		animation processing begun
+			processing action Cube.338Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.339
+		animation processing begun
+			processing action Cube.339Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.340
+		animation processing begun
+			processing action Cube.340Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.341
+		animation processing begun
+			processing action Cube.341Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.342
+		animation processing begun
+			processing action Cube.342Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.343
+		animation processing begun
+			processing action Cube.343Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.344
+		animation processing begun
+			processing action Cube.344Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.345
+		animation processing begun
+			processing action Cube.345Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.346
+		animation processing begun
+			processing action Cube.346Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.347
+		animation processing begun
+			processing action Cube.347Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.348
+		animation processing begun
+			processing action Cube.348Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.349
+		animation processing begun
+			processing action Cube.349Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.350
+		animation processing begun
+			processing action Cube.350Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.351
+		animation processing begun
+			processing action Cube.351Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.352
+		animation processing begun
+			processing action Cube.352Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.353
+		animation processing begun
+			processing action Cube.353Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.354
+		animation processing begun
+			processing action Cube.354Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.355
+		animation processing begun
+			processing action Cube.355Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.356
+		animation processing begun
+			processing action Cube.356Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.357
+		animation processing begun
+			processing action Cube.357Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.358
+		animation processing begun
+			processing action Cube.358Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.359
+		animation processing begun
+			processing action Cube.359Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.360
+		animation processing begun
+			processing action Cube.360Action:  in[1 - 250], out[0 - 250]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+========= Writing of JSON file started =========
+	writing mesh:  Cube
+	writing mesh:  Cube.001
+	writing mesh:  Cube.002
+	writing mesh:  Cube.003
+	writing mesh:  Cube.004
+	writing mesh:  Cube.005
+	writing mesh:  Cube.006
+	writing mesh:  Cube.007
+	writing mesh:  Cube.008
+	writing mesh:  Cube.009
+	writing mesh:  Cube.010
+	writing mesh:  Cube.011
+	writing mesh:  Cube.012
+	writing mesh:  Cube.013
+	writing mesh:  Cube.014
+	writing mesh:  Cube.015
+	writing mesh:  Cube.016
+	writing mesh:  Cube.017
+	writing mesh:  Cube.018
+	writing mesh:  Cube.019
+	writing mesh:  Cube.020
+	writing mesh:  Cube.021
+	writing mesh:  Cube.022
+	writing mesh:  Cube.023
+	writing mesh:  Cube.024
+	writing mesh:  Cube.025
+	writing mesh:  Cube.026
+	writing mesh:  Cube.027
+	writing mesh:  Cube.028
+	writing mesh:  Cube.029
+	writing mesh:  Cube.030
+	writing mesh:  Cube.031
+	writing mesh:  Cube.032
+	writing mesh:  Cube.033
+	writing mesh:  Cube.034
+	writing mesh:  Cube.035
+	writing mesh:  Cube.036
+	writing mesh:  Cube.037
+	writing mesh:  Cube.038
+	writing mesh:  Cube.039
+	writing mesh:  Cube.040
+	writing mesh:  Cube.041
+	writing mesh:  Cube.042
+	writing mesh:  Cube.043
+	writing mesh:  Cube.044
+	writing mesh:  Cube.045
+	writing mesh:  Cube.046
+	writing mesh:  Cube.047
+	writing mesh:  Cube.048
+	writing mesh:  Cube.049
+	writing mesh:  Cube.050
+	writing mesh:  Cube.051
+	writing mesh:  Cube.052
+	writing mesh:  Cube.053
+	writing mesh:  Cube.054
+	writing mesh:  Cube.055
+	writing mesh:  Cube.056
+	writing mesh:  Cube.057
+	writing mesh:  Cube.058
+	writing mesh:  Cube.059
+	writing mesh:  Cube.060
+	writing mesh:  Cube.061
+	writing mesh:  Cube.062
+	writing mesh:  Cube.063
+	writing mesh:  Cube.064
+	writing mesh:  Cube.065
+	writing mesh:  Cube.066
+	writing mesh:  Cube.067
+	writing mesh:  Cube.068
+	writing mesh:  Cube.069
+	writing mesh:  Cube.070
+	writing mesh:  Cube.071
+	writing mesh:  Cube.072
+	writing mesh:  Cube.073
+	writing mesh:  Cube.074
+	writing mesh:  Cube.075
+	writing mesh:  Cube.076
+	writing mesh:  Cube.077
+	writing mesh:  Cube.078
+	writing mesh:  Cube.079
+	writing mesh:  Cube.080
+	writing mesh:  Cube.081
+	writing mesh:  Cube.082
+	writing mesh:  Cube.083
+	writing mesh:  Cube.084
+	writing mesh:  Cube.085
+	writing mesh:  Cube.086
+	writing mesh:  Cube.087
+	writing mesh:  Cube.088
+	writing mesh:  Cube.089
+	writing mesh:  Cube.090
+	writing mesh:  Cube.091
+	writing mesh:  Cube.092
+	writing mesh:  Cube.093
+	writing mesh:  Cube.094
+	writing mesh:  Cube.095
+	writing mesh:  Cube.096
+	writing mesh:  Cube.097
+	writing mesh:  Cube.098
+	writing mesh:  Cube.099
+	writing mesh:  Cube.100
+	writing mesh:  Cube.101
+	writing mesh:  Cube.102
+	writing mesh:  Cube.103
+	writing mesh:  Cube.104
+	writing mesh:  Cube.105
+	writing mesh:  Cube.106
+	writing mesh:  Cube.107
+	writing mesh:  Cube.108
+	writing mesh:  Cube.109
+	writing mesh:  Cube.110
+	writing mesh:  Cube.111
+	writing mesh:  Cube.112
+	writing mesh:  Cube.113
+	writing mesh:  Cube.114
+	writing mesh:  Cube.115
+	writing mesh:  Cube.116
+	writing mesh:  Cube.117
+	writing mesh:  Cube.118
+	writing mesh:  Cube.119
+	writing mesh:  Cube.120
+	writing mesh:  Cube.121
+	writing mesh:  Cube.122
+	writing mesh:  Cube.123
+	writing mesh:  Cube.124
+	writing mesh:  Cube.125
+	writing mesh:  Cube.126
+	writing mesh:  Cube.127
+	writing mesh:  Cube.128
+	writing mesh:  Cube.129
+	writing mesh:  Cube.130
+	writing mesh:  Cube.131
+	writing mesh:  Cube.132
+	writing mesh:  Cube.133
+	writing mesh:  Cube.134
+	writing mesh:  Cube.135
+	writing mesh:  Cube.136
+	writing mesh:  Cube.137
+	writing mesh:  Cube.138
+	writing mesh:  Cube.139
+	writing mesh:  Cube.140
+	writing mesh:  Cube.141
+	writing mesh:  Cube.142
+	writing mesh:  Cube.143
+	writing mesh:  Cube.144
+	writing mesh:  Cube.145
+	writing mesh:  Cube.146
+	writing mesh:  Cube.147
+	writing mesh:  Cube.148
+	writing mesh:  Cube.149
+	writing mesh:  Cube.150
+	writing mesh:  Cube.151
+	writing mesh:  Cube.152
+	writing mesh:  Cube.153
+	writing mesh:  Cube.154
+	writing mesh:  Cube.155
+	writing mesh:  Cube.156
+	writing mesh:  Cube.157
+	writing mesh:  Cube.158
+	writing mesh:  Cube.159
+	writing mesh:  Cube.160
+	writing mesh:  Cube.161
+	writing mesh:  Cube.162
+	writing mesh:  Cube.163
+	writing mesh:  Cube.164
+	writing mesh:  Cube.165
+	writing mesh:  Cube.166
+	writing mesh:  Cube.167
+	writing mesh:  Cube.168
+	writing mesh:  Cube.169
+	writing mesh:  Cube.170
+	writing mesh:  Cube.171
+	writing mesh:  Cube.172
+	writing mesh:  Cube.173
+	writing mesh:  Cube.174
+	writing mesh:  Cube.175
+	writing mesh:  Cube.176
+	writing mesh:  Cube.177
+	writing mesh:  Cube.178
+	writing mesh:  Cube.179
+	writing mesh:  Cube.180
+	writing mesh:  Cube.181
+	writing mesh:  Cube.182
+	writing mesh:  Cube.183
+	writing mesh:  Cube.184
+	writing mesh:  Cube.185
+	writing mesh:  Cube.186
+	writing mesh:  Cube.187
+	writing mesh:  Cube.188
+	writing mesh:  Cube.189
+	writing mesh:  Cube.190
+	writing mesh:  Cube.191
+	writing mesh:  Cube.192
+	writing mesh:  Cube.193
+	writing mesh:  Cube.194
+	writing mesh:  Cube.195
+	writing mesh:  Cube.196
+	writing mesh:  Cube.197
+	writing mesh:  Cube.198
+	writing mesh:  Cube.199
+	writing mesh:  Cube.200
+	writing mesh:  Cube.201
+	writing mesh:  Cube.202
+	writing mesh:  Cube.203
+	writing mesh:  Cube.204
+	writing mesh:  Cube.205
+	writing mesh:  Cube.206
+	writing mesh:  Cube.207
+	writing mesh:  Cube.208
+	writing mesh:  Cube.209
+	writing mesh:  Cube.210
+	writing mesh:  Cube.211
+	writing mesh:  Cube.212
+	writing mesh:  Cube.213
+	writing mesh:  Cube.214
+	writing mesh:  Cube.215
+	writing mesh:  Cube.216
+	writing mesh:  Cube.217
+	writing mesh:  Cube.218
+	writing mesh:  Cube.219
+	writing mesh:  Cube.220
+	writing mesh:  Cube.221
+	writing mesh:  Cube.222
+	writing mesh:  Cube.223
+	writing mesh:  Cube.224
+	writing mesh:  Cube.225
+	writing mesh:  Cube.226
+	writing mesh:  Cube.227
+	writing mesh:  Cube.228
+	writing mesh:  Cube.229
+	writing mesh:  Cube.230
+	writing mesh:  Cube.231
+	writing mesh:  Cube.232
+	writing mesh:  Cube.233
+	writing mesh:  Cube.234
+	writing mesh:  Cube.235
+	writing mesh:  Cube.236
+	writing mesh:  Cube.237
+	writing mesh:  Cube.238
+	writing mesh:  Cube.239
+	writing mesh:  Cube.240
+	writing mesh:  Cube.241
+	writing mesh:  Cube.242
+	writing mesh:  Cube.243
+	writing mesh:  Cube.244
+	writing mesh:  Cube.245
+	writing mesh:  Cube.246
+	writing mesh:  Cube.247
+	writing mesh:  Cube.248
+	writing mesh:  Cube.249
+	writing mesh:  Cube.250
+	writing mesh:  Cube.251
+	writing mesh:  Cube.252
+	writing mesh:  Cube.253
+	writing mesh:  Cube.254
+	writing mesh:  Cube.255
+	writing mesh:  Cube.256
+	writing mesh:  Cube.257
+	writing mesh:  Cube.258
+	writing mesh:  Cube.259
+	writing mesh:  Cube.260
+	writing mesh:  Cube.261
+	writing mesh:  Cube.262
+	writing mesh:  Cube.263
+	writing mesh:  Cube.264
+	writing mesh:  Cube.265
+	writing mesh:  Cube.266
+	writing mesh:  Cube.267
+	writing mesh:  Cube.268
+	writing mesh:  Cube.269
+	writing mesh:  Cube.270
+	writing mesh:  Cube.271
+	writing mesh:  Cube.272
+	writing mesh:  Cube.273
+	writing mesh:  Cube.274
+	writing mesh:  Cube.275
+	writing mesh:  Cube.276
+	writing mesh:  Cube.277
+	writing mesh:  Cube.278
+	writing mesh:  Cube.279
+	writing mesh:  Cube.280
+	writing mesh:  Cube.281
+	writing mesh:  Cube.282
+	writing mesh:  Cube.283
+	writing mesh:  Cube.284
+	writing mesh:  Cube.285
+	writing mesh:  Cube.286
+	writing mesh:  Cube.287
+	writing mesh:  Cube.288
+	writing mesh:  Cube.289
+	writing mesh:  Cube.290
+	writing mesh:  Cube.291
+	writing mesh:  Cube.292
+	writing mesh:  Cube.293
+	writing mesh:  Cube.294
+	writing mesh:  Cube.295
+	writing mesh:  Cube.296
+	writing mesh:  Cube.297
+	writing mesh:  Cube.298
+	writing mesh:  Cube.299
+	writing mesh:  Cube.300
+	writing mesh:  Cube.301
+	writing mesh:  Cube.302
+	writing mesh:  Cube.303
+	writing mesh:  Cube.304
+	writing mesh:  Cube.305
+	writing mesh:  Cube.306
+	writing mesh:  Cube.307
+	writing mesh:  Cube.308
+	writing mesh:  Cube.309
+	writing mesh:  Cube.310
+	writing mesh:  Cube.311
+	writing mesh:  Cube.312
+	writing mesh:  Cube.313
+	writing mesh:  Cube.314
+	writing mesh:  Cube.315
+	writing mesh:  Cube.316
+	writing mesh:  Cube.317
+	writing mesh:  Cube.318
+	writing mesh:  Cube.319
+	writing mesh:  Cube.320
+	writing mesh:  Cube.321
+	writing mesh:  Cube.322
+	writing mesh:  Cube.323
+	writing mesh:  Cube.324
+	writing mesh:  Cube.325
+	writing mesh:  Cube.326
+	writing mesh:  Cube.327
+	writing mesh:  Cube.328
+	writing mesh:  Cube.329
+	writing mesh:  Cube.330
+	writing mesh:  Cube.331
+	writing mesh:  Cube.332
+	writing mesh:  Cube.333
+	writing mesh:  Cube.334
+	writing mesh:  Cube.335
+	writing mesh:  Cube.336
+	writing mesh:  Cube.337
+	writing mesh:  Cube.338
+	writing mesh:  Cube.339
+	writing mesh:  Cube.340
+	writing mesh:  Cube.341
+	writing mesh:  Cube.342
+	writing mesh:  Cube.343
+	writing mesh:  Cube.344
+	writing mesh:  Cube.345
+	writing mesh:  Cube.346
+	writing mesh:  Cube.347
+	writing mesh:  Cube.348
+	writing mesh:  Cube.349
+	writing mesh:  Cube.350
+	writing mesh:  Cube.351
+	writing mesh:  Cube.352
+	writing mesh:  Cube.353
+	writing mesh:  Cube.354
+	writing mesh:  Cube.355
+	writing mesh:  Cube.356
+	writing mesh:  Cube.357
+	writing mesh:  Cube.358
+	writing mesh:  Cube.359
+	writing mesh:  Cube.360
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  4 min, 13.0077 secs

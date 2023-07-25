@@ -36,7 +36,7 @@ def eulerToQuat(x, y, z):
 
 grabMap = {
     "formatVersion": 7,
-    "title": "Keyframes",
+    "title": "Keyframes 3",
     "creators": ".index BlenderFrames2Grab",
     "description": ".index - Level modding",
     "levelNodes": [],
@@ -61,7 +61,7 @@ grabMap = {
     }
 }
 delay = 10
-with open("phys.babylon") as json_file:
+with open("falling.babylon") as json_file:
     data = json.load(json_file)
 
 meshes = data["meshes"]
@@ -126,7 +126,9 @@ for mesh in meshes:
     if "animations" in mesh:
         rotationAnimation = mesh["animations"][0]
         positionAnimation = mesh["animations"][1]
-
+        lastPos = {}
+        lastRot = {}
+        lastTime = {}
         for i in range(mesh["ranges"][0]["to"]):
             if i < len(rotationAnimation["keys"]) and i < len(positionAnimation["keys"]):
                 rotationFrame = rotationAnimation["keys"][i]["values"]
@@ -142,11 +144,20 @@ for mesh in meshes:
                 levelNode["animations"][0]["frames"].append({
                     "position": position,
                     "rotation": rotation,
-                    "time": i+delay
+                    "time": i/48+delay
                 })
+                lastPos = position
+                lastRot = rotation
+                lastTime = i/48+delay
+                
+        # levelNode["animations"][0]["frames"].append({
+        #     "position": lastPos,
+        #     "rotation": lastRot,
+        #     "time": 10000
+        # })
         grabMap["levelNodes"].append(levelNode) 
 
-with open("grabMap.json", "w") as outfile:
+with open("grabMap2.json", "w") as outfile:
     json.dump(grabMap, outfile, indent=4)
 
-createLevel(json.dumps(grabMap), "grabMap.level")
+createLevel(json.dumps(grabMap), "grabMap3.level")
