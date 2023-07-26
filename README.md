@@ -1,6 +1,8 @@
 # Blender Frames 2 Grab
 **Using Babylon.js**
 > This will only work if you have access to Animations or once they have released to the public.
+
+> Currently all objects are assumed to be cubes.
 ### Usage
 - Install the [BabylonJS Blender Exporter](https://github.com/BabylonJS/BlenderExporter) Add-on
 - Edit>Preferences>Add-ons>Install>`Blender2Babylon-X.X.zip`>Enable
