@@ -1,6 +1,5 @@
-import json
+import json, time
 import numpy as np
-
 from google.protobuf import json_format
 from generated import types_pb2, level_pb2
 
@@ -36,7 +35,7 @@ def eulerToQuat(x, y, z):
 
 grabMap = {
     "formatVersion": 7,
-    "title": "Keyframes 3",
+    "title": "Keyframes",
     "creators": ".index BlenderFrames2Grab",
     "description": ".index - Level modding",
     "levelNodes": [],
@@ -61,10 +60,17 @@ grabMap = {
     }
 }
 delay = 10
-with open("falling.babylon") as json_file:
+with open("data.babylon") as json_file:
     data = json.load(json_file)
 
 meshes = data["meshes"]
+
+length = 0
+for mesh in meshes:
+    if "animations" in mesh:
+        if mesh["ranges"][0]["to"] > length:
+            length = mesh["ranges"][0]["to"]
+
 for mesh in meshes:
     position = {
         "x": mesh["position"][0],
@@ -150,14 +156,14 @@ for mesh in meshes:
                 lastRot = rotation
                 lastTime = i/48+delay
                 
-        # levelNode["animations"][0]["frames"].append({
-        #     "position": lastPos,
-        #     "rotation": lastRot,
-        #     "time": 10000
-        # })
+        levelNode["animations"][0]["frames"].append({
+            "position": lastPos,
+            "rotation": lastRot,
+            "time": length/48+delay*2
+        })
         grabMap["levelNodes"].append(levelNode) 
 
-with open("grabMap2.json", "w") as outfile:
+with open("keyframes.json", "w") as outfile:
     json.dump(grabMap, outfile, indent=4)
 
-createLevel(json.dumps(grabMap), "grabMap3.level")
+createLevel(json.dumps(grabMap), f"{int(time.time())}.level")
