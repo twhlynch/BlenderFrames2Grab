@@ -2,3 +2,4 @@
 *.json
 *.level
 *.log
+*__pycache__*
