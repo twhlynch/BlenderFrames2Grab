@@ -1,3 +1,4 @@
-*.babylon
+*.babylon*
 *.json
 *.level
+*.log
