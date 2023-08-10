@@ -4,6 +4,7 @@
 
 > Currently all objects are assumed to be cubes.
 ### Usage
+- Run `pip install -r requirements.txt`
 - Install the [BabylonJS Blender Exporter](https://github.com/BabylonJS/BlenderExporter) Add-on
 - Edit>Preferences>Add-ons>Install>`Blender2Babylon-X.X.zip`>Enable
 - Create a Physics scene with Collisions and Rigid-bodies.
